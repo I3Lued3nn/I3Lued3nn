@@ -25,7 +25,4 @@
 Olá! Meu nome é Victor dos Santos Martins, sou um jovem entusiasta programador apaixonado por tecnologia e desenvolvimento de software.
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=I3Lued3nn&bg_color=000000&color=31b7c9&line=1d5ddd&point=1b0e3a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=I3Lued3nn&bg_color=000000&color=31b7c9&line=1d5ddd&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
